@@ -17,6 +17,7 @@ leading Senior Team Leads and teams of 90+ FTEs.
 
 ### End-to-End RCM Operations
 - Run daily operations across **Insurance Verification, Billing, Payment Posting, AR and Denials**
+- **Deliver to SLA:** Balance workloads, targets and quality across 90+ FTEs
 
 ### Transition & Workforce Planning
 - Lead **process transitions**: onboarding new clients and processes, with training and readiness in place before production
